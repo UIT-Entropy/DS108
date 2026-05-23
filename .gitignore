@@ -1,0 +1,6 @@
+# Ignore dataset and exported data files
+*.csv
+*.json
+
+# Keep editor settings local
+.vscode/
